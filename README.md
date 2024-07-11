@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to my Github Page
+
+My name is Luke Pryor and I'm an aspiring Software Developer from Auckland in New Zealand.
+
+Here I'll be showcasing projects I have either worked on in the past, as well as stuff I'm working on right now.
+
+A lot of my projects will do with Websockets, Twitch API, & Real time data.
 
 <!--
 **mizticNZ/mizticNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
